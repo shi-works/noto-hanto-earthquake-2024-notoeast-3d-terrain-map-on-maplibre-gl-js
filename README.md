@@ -2,7 +2,7 @@
 森林総合研究所のCS立体図（0.5m）と全国Q地図の標高タイル（能登東部2022年）をもとに、MapLibre GL JSで能登東部3D地形マップを表示するデモサイトです。
 
 ## Public Website
-https://shi-works.github.io/noto-hanto-earthquake-2024-gsi-ortho-map-on-maplibre-gl-js/
+https://shi-works.github.io/noto-hanto-earthquake-2024-notoeast-3d-terrain-map-on-maplibre-gl-js/
 
 ## Data Source
 ### 森林総合研究所
